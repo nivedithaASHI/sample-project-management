@@ -4,7 +4,7 @@ this repository contains a simple project demonstrating agile workflow using GIT
 # **Student Grade Calculator**
 A python program to calculate student grades.
 
-# **PROJECT DESCRIPTION**
+# **Project Discription**
 
 This project is a simple python program that calculates student grades and demonstrate agile workflow using github.
 
@@ -24,15 +24,15 @@ Print a summary.
 
 # **How to run**
 
-1.install python 3.x.
+1. Install python 3.x.
 
-2.download or clone this repository.
+2. Download or clone this repository.
 
-3.open terminal and navigate to the project folder.
+3. Open terminal and navigate to the project folder.
 
-4.run the script.
+4. Run the script.
 
-**Tools/Libraries Used**
+# **Tools/Libraries Used**
 
 python 3.x.
 
