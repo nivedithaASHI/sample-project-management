@@ -18,7 +18,7 @@ def calculate_student_grades():
     students_info = []
 
     # Loop to input each student's data
-    for i in range(num_students):
+    for i in range (num_students):
         print(f"\nEnter information for student {i + 1}:")
         name = input("Enter student name: ")
         num_subjects = int(input("Enter the number of subjects: "))
