@@ -34,7 +34,7 @@ def calculate_student_grades():
         # Store student info in a dictionary
         students_info.append({
             "name": name,
-            "total_score": total_score,
+            "total_score ": total_score,
             "average_score": average_score,
             "grade": grade
         })
