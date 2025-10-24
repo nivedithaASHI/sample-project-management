@@ -3,3 +3,5 @@ this repository contains a simple project demonstrating agile workflow using GIT
 
 # **Student Grade Calculator**
 A python program to calculate student grades
+**PROJECT DESCRIPTION**
+This project
