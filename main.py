@@ -41,7 +41,7 @@ def calculate_student_grades():
     
     # Print the results
     print("\nStudent Grades Summary:")
-    print(f"{'Name':<20}{'Total Score':<15}{'Average Score':<15}{'Grade'}")
+    print(f"{'Name.':<20}{'Total Score':<15}{'Average Score':<15}{'Grade'}")
     for student in students_info:
         print(f"{student['name']:<20}{student['total_score']:<15}{student['average_score']:<15.2f}{student['grade']}")
     
