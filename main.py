@@ -9,7 +9,7 @@ def calculate_grade(average):
     elif average >= 60:
         return 'D'
     else:
-        return 'F'
+         return 'F'
 
 # Function to calculate total, average, and grade for each student
 def calculate_student_grades():
